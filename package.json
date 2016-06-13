@@ -20,7 +20,7 @@
   "author": "Emanuel Chappat <emmanuel.chappat@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "busboy": "^0.2.12"
+    "busboy": "abalhier/busboy#bundle-fix"
   },
   "devDependencies": {
     "expect": "^1.13.4",
